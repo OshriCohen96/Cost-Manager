@@ -6,7 +6,8 @@ Using Java ,Derby DB and Swing GUI.
 
 <p align="center">
   <img src="https://pasteboard.co/JOD1yNx.png
-" width="350" title="hover text">
+" width="350" title="https://pasteboard.co/JOD1yNx.png
+">
   <img src="https://pasteboard.co/JOD1yNx.png
 " width="350" alt="accessibility text">
 </p>
